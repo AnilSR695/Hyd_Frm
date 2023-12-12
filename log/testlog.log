@@ -1,0 +1,16 @@
+2023-11-23 10:08:55,074 - Testcase.LoginTest_002 -INFO - username is enetered
+2023-11-23 10:08:57,163 - Testcase.LoginTest_002 -INFO - password is enetered
+2023-11-23 10:09:00,485 - Testcase.LoginTest_002 -INFO - user is succefully logging inito the account
+2023-11-23 10:09:00,493 - Testcase.LoginTest_002 -INFO - testcase is failed
+2023-11-23 16:08:52,819 - Testcase.LoginTest_002 -INFO - username is enetered
+2023-11-23 16:08:54,908 - Testcase.LoginTest_002 -INFO - password is enetered
+2023-11-23 16:08:58,561 - Testcase.LoginTest_002 -INFO - user is succefully logging inito the account
+2023-11-23 16:08:58,577 - Testcase.LoginTest_002 -INFO - testcase is failed
+2023-11-23 16:09:56,104 - Testcase.LoginTest_002 -INFO - username is enetered
+2023-11-23 16:09:58,192 - Testcase.LoginTest_002 -INFO - password is enetered
+2023-11-23 16:10:02,455 - Testcase.LoginTest_002 -INFO - user is succefully logging inito the account
+2023-11-23 16:10:02,468 - Testcase.LoginTest_002 -INFO - testcase is failed
+2023-12-06 14:54:15,595 - Testcase.LoginTest_002 -INFO - username is enetered
+2023-12-06 14:54:17,834 - Testcase.LoginTest_002 -INFO - password is enetered
+2023-12-06 14:54:21,962 - Testcase.LoginTest_002 -INFO - user is succefully logging inito the account
+2023-12-06 14:54:21,972 - Testcase.LoginTest_002 -INFO - testcase is failed
